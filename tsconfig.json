@@ -9,6 +9,16 @@
     "noImplicitOverride": true,
     "noPropertyAccessFromIndexSignature": true,
     "noImplicitReturns": true,
+    "paths": {
+      "lib-api": [
+        "dist/lib-api/lib-api",
+        "dist/lib-api"
+      ],
+      "lib-common": [
+        "dist/lib-common/lib-common",
+        "dist/lib-common"
+      ]
+    },
     "noFallthroughCasesInSwitch": true,
     "sourceMap": true,
     "declaration": false,
